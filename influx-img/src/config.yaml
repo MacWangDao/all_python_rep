@@ -1,0 +1,48 @@
+instruments:
+  - sz.300001
+#  - sz.300024
+#  - sz.300009
+#  - sz.300017
+#  - sh.600665
+#  - sz.300026
+#  - sz.300869
+#  - sz.300037
+#  - sz.300058
+#  - sz.300070
+#  - sz.300072
+#  - sz.300081
+#  - sz.300088
+#  - sz.300115
+#  - sz.300133
+#  - sz.300136
+
+matrix:
+  x: -1
+  y: 50
+#time_interval: 6s # s
+#timeRangeStart: 2022-04-06 01:15:00
+#timeRangeStop: 2022-04-06 07:30:00
+time_interval: 3 # s
+timeRangeStart: 2022-04-13 01:15:00
+timeRangeStop: 2022-04-13 07:20:00
+sp_values:
+  - sp_ask_amt
+  - sp_ask_vol
+  - sp_bid_amt
+  - sp_bid_vol
+out_path: ./img/
+influxdb:
+  token:  pFGIYU6RQZ6bfObi0HD3B3KIF4xYq5IesSzvGVkSo675-6BPXk3phh0SUhVhi-_U93OBC1YhT_j-BQvwqNsDpQ==
+  org: bjhy
+  bucket: quote-v2
+  url:  http://192.168.101.201:8086
+
+oracle:
+  host: 192.168.101.215
+  user: bjhy
+  port: 1521
+  password: bjhy
+  sid:
+  service_name: bjhy
+
+

@@ -1,0 +1,172 @@
+2023-04-21 09:09:36 [scrapy.utils.log] INFO: Scrapy 2.8.0 started (bot: csrc)
+2023-04-21 09:09:36 [scrapy.utils.log] INFO: Versions: lxml 4.9.2.0, libxml2 2.9.14, cssselect 1.2.0, parsel 1.8.1, w3lib 2.1.1, Twisted 22.10.0, Python 3.9.16 (main, Mar  8 2023, 14:00:05) - [GCC 11.2.0], pyOpenSSL 23.1.1 (OpenSSL 3.0.8 7 Feb 2023), cryptography 39.0.2, Platform Linux-5.16.14-arch1-1-x86_64-with-glibc2.37
+2023-04-21 09:09:36 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'csrc',
+ 'LOG_FILE': './log/2023-4-21.log',
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'csrc.spiders',
+ 'SPIDER_MODULES': ['csrc.spiders']}
+2023-04-21 09:09:36 [py.warnings] WARNING: /data/anaconda3/envs/env_py39/lib/python3.9/site-packages/scrapy/utils/request.py:232: ScrapyDeprecationWarning: '2.6' is a deprecated value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting.
+
+It is also the default value. In other words, it is normal to get this warning if you have not defined a value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting. This is so for backward compatibility reasons, but it will change in a future version of Scrapy.
+
+See the documentation of the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting for information on how to handle this deprecation.
+  return cls(crawler)
+
+2023-04-21 09:09:36 [scrapy.extensions.telnet] INFO: Telnet Password: 55a3e51ffee63bbc
+2023-04-21 09:09:36 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats']
+2023-04-21 09:09:36 [selenium.webdriver.common.selenium_manager] INFO: Executing: /data/anaconda3/envs/env_py39/lib/python3.9/site-packages/selenium/webdriver/common/linux/selenium-manager --browser chrome --output json
+2023-04-21 09:09:38 [twisted] CRITICAL: Unhandled error in Deferred:
+2023-04-21 09:09:38 [twisted] CRITICAL: 
+Traceback (most recent call last):
+  File "/data/anaconda3/envs/env_py39/lib/python3.9/site-packages/twisted/internet/defer.py", line 1697, in _inlineCallbacks
+    result = context.run(gen.send, result)
+  File "/data/anaconda3/envs/env_py39/lib/python3.9/site-packages/scrapy/crawler.py", line 121, in crawl
+    self.spider = self._create_spider(*args, **kwargs)
+  File "/data/anaconda3/envs/env_py39/lib/python3.9/site-packages/scrapy/crawler.py", line 133, in _create_spider
+    return self.spidercls.from_crawler(self, *args, **kwargs)
+  File "/data/anaconda3/envs/env_py39/lib/python3.9/site-packages/scrapy/spiders/__init__.py", line 53, in from_crawler
+    spider = cls(*args, **kwargs)
+  File "/data/project/csrc/csrc/spiders/csrc_news_info.py", line 39, in __init__
+    self.webdriver = webdriver.Chrome(
+  File "/data/anaconda3/envs/env_py39/lib/python3.9/site-packages/selenium/webdriver/chrome/webdriver.py", line 84, in __init__
+    super().__init__(
+  File "/data/anaconda3/envs/env_py39/lib/python3.9/site-packages/selenium/webdriver/chromium/webdriver.py", line 101, in __init__
+    self.service.start()
+  File "/data/anaconda3/envs/env_py39/lib/python3.9/site-packages/selenium/webdriver/common/service.py", line 100, in start
+    self.assert_process_still_running()
+  File "/data/anaconda3/envs/env_py39/lib/python3.9/site-packages/selenium/webdriver/common/service.py", line 113, in assert_process_still_running
+    raise WebDriverException(f"Service {self._path} unexpectedly exited. Status code was: {return_code}")
+selenium.common.exceptions.WebDriverException: Message: Service /home/toptrade/.cache/selenium/chromedriver/linux64/112.0.5615.49/chromedriver unexpectedly exited. Status code was: 127
+
+2023-04-21 09:19:04 [scrapy.utils.log] INFO: Scrapy 2.8.0 started (bot: csrc)
+2023-04-21 09:19:04 [scrapy.utils.log] INFO: Versions: lxml 4.9.2.0, libxml2 2.9.14, cssselect 1.2.0, parsel 1.8.1, w3lib 2.1.1, Twisted 22.10.0, Python 3.9.16 (main, Mar  8 2023, 14:00:05) - [GCC 11.2.0], pyOpenSSL 23.1.1 (OpenSSL 3.0.8 7 Feb 2023), cryptography 39.0.2, Platform Linux-5.16.14-arch1-1-x86_64-with-glibc2.37
+2023-04-21 09:19:04 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'csrc',
+ 'LOG_FILE': './log/2023-4-21.log',
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'csrc.spiders',
+ 'SPIDER_MODULES': ['csrc.spiders']}
+2023-04-21 09:19:04 [py.warnings] WARNING: /data/anaconda3/envs/env_py39/lib/python3.9/site-packages/scrapy/utils/request.py:232: ScrapyDeprecationWarning: '2.6' is a deprecated value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting.
+
+It is also the default value. In other words, it is normal to get this warning if you have not defined a value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting. This is so for backward compatibility reasons, but it will change in a future version of Scrapy.
+
+See the documentation of the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting for information on how to handle this deprecation.
+  return cls(crawler)
+
+2023-04-21 09:19:04 [scrapy.extensions.telnet] INFO: Telnet Password: 0a8226accf16407a
+2023-04-21 09:19:04 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats']
+2023-04-21 09:19:04 [selenium.webdriver.common.selenium_manager] INFO: Executing: /data/anaconda3/envs/env_py39/lib/python3.9/site-packages/selenium/webdriver/common/linux/selenium-manager --browser chrome --output json
+2023-04-21 09:19:04 [selenium.webdriver.common.selenium_manager] WARNING: Incompatible release of chromedriver (version 112.0.5615.165) detected in PATH: /usr/bin/chromedriver
+2023-04-21 09:19:07 [twisted] CRITICAL: Unhandled error in Deferred:
+2023-04-21 09:19:07 [twisted] CRITICAL: 
+Traceback (most recent call last):
+  File "/data/anaconda3/envs/env_py39/lib/python3.9/site-packages/twisted/internet/defer.py", line 1697, in _inlineCallbacks
+    result = context.run(gen.send, result)
+  File "/data/anaconda3/envs/env_py39/lib/python3.9/site-packages/scrapy/crawler.py", line 122, in crawl
+    self.engine = self._create_engine()
+  File "/data/anaconda3/envs/env_py39/lib/python3.9/site-packages/scrapy/crawler.py", line 136, in _create_engine
+    return ExecutionEngine(self, lambda _: self.stop())
+  File "/data/anaconda3/envs/env_py39/lib/python3.9/site-packages/scrapy/core/engine.py", line 78, in __init__
+    self.downloader = downloader_cls(crawler)
+  File "/data/anaconda3/envs/env_py39/lib/python3.9/site-packages/scrapy/core/downloader/__init__.py", line 85, in __init__
+    self.middleware = DownloaderMiddlewareManager.from_crawler(crawler)
+  File "/data/anaconda3/envs/env_py39/lib/python3.9/site-packages/scrapy/middleware.py", line 68, in from_crawler
+    return cls.from_settings(crawler.settings, crawler)
+  File "/data/anaconda3/envs/env_py39/lib/python3.9/site-packages/scrapy/middleware.py", line 43, in from_settings
+    mwcls = load_object(clspath)
+  File "/data/anaconda3/envs/env_py39/lib/python3.9/site-packages/scrapy/utils/misc.py", line 60, in load_object
+    mod = import_module(module)
+  File "/data/anaconda3/envs/env_py39/lib/python3.9/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/data/project/csrc/csrc/middlewares.py", line 9, in <module>
+    from fake_useragent import UserAgent
+ModuleNotFoundError: No module named 'fake_useragent'
+2023-04-21 09:19:57 [scrapy.utils.log] INFO: Scrapy 2.8.0 started (bot: csrc)
+2023-04-21 09:19:57 [scrapy.utils.log] INFO: Versions: lxml 4.9.2.0, libxml2 2.9.14, cssselect 1.2.0, parsel 1.8.1, w3lib 2.1.1, Twisted 22.10.0, Python 3.9.16 (main, Mar  8 2023, 14:00:05) - [GCC 11.2.0], pyOpenSSL 23.1.1 (OpenSSL 3.0.8 7 Feb 2023), cryptography 39.0.2, Platform Linux-5.16.14-arch1-1-x86_64-with-glibc2.37
+2023-04-21 09:19:57 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'csrc',
+ 'LOG_FILE': './log/2023-4-21.log',
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'csrc.spiders',
+ 'SPIDER_MODULES': ['csrc.spiders']}
+2023-04-21 09:19:57 [py.warnings] WARNING: /data/anaconda3/envs/env_py39/lib/python3.9/site-packages/scrapy/utils/request.py:232: ScrapyDeprecationWarning: '2.6' is a deprecated value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting.
+
+It is also the default value. In other words, it is normal to get this warning if you have not defined a value for the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting. This is so for backward compatibility reasons, but it will change in a future version of Scrapy.
+
+See the documentation of the 'REQUEST_FINGERPRINTER_IMPLEMENTATION' setting for information on how to handle this deprecation.
+  return cls(crawler)
+
+2023-04-21 09:19:57 [scrapy.extensions.telnet] INFO: Telnet Password: 51c0fb4366f97afe
+2023-04-21 09:19:57 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats']
+2023-04-21 09:19:57 [selenium.webdriver.common.selenium_manager] INFO: Executing: /data/anaconda3/envs/env_py39/lib/python3.9/site-packages/selenium/webdriver/common/linux/selenium-manager --browser chrome --output json
+2023-04-21 09:19:57 [selenium.webdriver.common.selenium_manager] WARNING: Incompatible release of chromedriver (version 112.0.5615.165) detected in PATH: /usr/bin/chromedriver
+2023-04-21 09:19:59 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'csrc.middlewares.ChromeSeleniumDownloaderMiddlewareOne',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2023-04-21 09:19:59 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2023-04-21 09:19:59 [scrapy.middleware] INFO: Enabled item pipelines:
+['csrc.pipelines.CsrcPipeline']
+2023-04-21 09:19:59 [scrapy.core.engine] INFO: Spider opened
+2023-04-21 09:20:01 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2023-04-21 09:20:01 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2023-04-21 09:20:06 [scrapy.core.engine] INFO: Closing spider (finished)
+2023-04-21 09:20:07 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 5363,
+ 'downloader/request_count': 22,
+ 'downloader/request_method_count/GET': 22,
+ 'downloader/response_bytes': 574079,
+ 'downloader/response_count': 24,
+ 'downloader/response_status_count/200': 22,
+ 'downloader/response_status_count/301': 1,
+ 'downloader/response_status_count/404': 1,
+ 'elapsed_time_seconds': 5.394262,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 4, 21, 1, 20, 7, 269381),
+ 'httpcompression/response_bytes': 578058,
+ 'httpcompression/response_count': 16,
+ 'item_scraped_count': 386,
+ 'log_count/INFO': 11,
+ 'log_count/WARNING': 2,
+ 'memusage/max': 136892416,
+ 'memusage/startup': 136892416,
+ 'response_received_count': 23,
+ 'scheduler/dequeued': 24,
+ 'scheduler/dequeued/memory': 24,
+ 'scheduler/enqueued': 24,
+ 'scheduler/enqueued/memory': 24,
+ 'start_time': datetime.datetime(2023, 4, 21, 1, 20, 1, 875119)}
+2023-04-21 09:20:07 [scrapy.core.engine] INFO: Spider closed (finished)

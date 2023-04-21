@@ -1,0 +1,19 @@
+yum -y install make zlib zlib-devel gcc-c++ libtool openssl openssl-devel
+
+wget http://nginx.org/download/nginx-1.21.0.tar.gz
+ ./configure --prefix=/usr/local/nginx --with-http_stub_status_module --with-http_ssl_module
+ make
+ make install
+
+
+ /usr/local/nginx/sbin/nginx                           #启动nginx
+/usr/local/nginx/sbin/nginx -t                        #测试配置文件是否有误，能都正常启动
+/usr/local/nginx/sbin/nginx -s reload            # 重新载入配置文件
+/usr/local/nginx/sbin/nginx -s reopen           # 重启 Nginx
+/usr/local/nginx/sbin/nginx -s stop               # 停止 Nginx
+
+
+
+# 指定配置文件启动
+
+./nginx -c  /opt/nginx-1.13.7/conf/nginx.conf

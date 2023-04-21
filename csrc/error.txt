@@ -1,0 +1,3208 @@
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 408, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 436, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 443, in parse_szse_ss_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "D:\project\ECommerceCrawlers-master\csrc\csrc\spiders\csrc_news_info.py", line 471, in parse_szse_bs_newboard
+    item["title"] = dd.xpath('./div/a/@title')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/data/project/csrc/csrc/spiders/csrc_news_info.py", line 516, in parse_news_politicspro_newboard
+    item["title"] = dd.xpath('./div[@class="tit"]/span/a/text()')[0]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "/data/project/csrc/csrc/spiders/csrc_news_info.py", line 516, in parse_news_politicspro_newboard
+    item["title"] = dd.xpath('./div[@class="tit"]/span/a/text()')[0]
+IndexError: list index out of range

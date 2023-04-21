@@ -1,0 +1,1478 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+    <meta charset="utf-8">
+<!--   <title>深交所主页</title>   -->
+<script>
+    var title = '<a href="./" title="时政要闻" class="CurrChnlCls">时政要闻</a> ';
+    title = title.substring(title.indexOf('>')+1,title.indexOf('</'));
+    document.write('<title>深圳证券交易所-'+ title +'</title>')
+</script>
+<script>
+  if(location.protocol == 'https:'){
+    document.write('<link href="https://res.szse.cn/common/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />');
+  }else{
+    document.write('<link href="http://res.static.szse.cn/common/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />');
+  }
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0" />
+<meta http-equiv="cache-control" content="max-age=0">
+<meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="expires" content="0">
+<meta http-equiv="expires" content="Web, 26 Feb 1997 08:21:57 GMT">
+<meta http-equiv="pragma" content="no-cache">
+<meta name="author" content="www.szse.cn">
+<meta name="description" content="深交所官网">
+<meta name="keywords" content="深交所,深交所官网,深圳证券交易所,交易所,交易所官网,深圳证券交易所官网">
+<meta name="renderer" content=webkit>
+<meta name="X-UA-Compatible" content="IE=edge">
+<meta name="google" value="notranslate"> 
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="email=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="screen-orientation" content="portrait">
+<meta name="full-screen" content="yes">
+<meta name="browermode" content="application">
+<meta name="x5-orientation" content="portrait">
+<meta name="HandheldFriendly" content="true">
+<script type="text/javascript">
+	var u = navigator.userAgent;
+	var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Adr') > -1;//android终端
+
+	function addElementMeta(name,  content) {
+		var head = document.getElementsByTagName('head')[0];
+		var meta = document.createElement('meta');
+
+		meta.setAttribute('name', name);
+		meta.setAttribute('content', content);
+		head.appendChild(meta);
+	}
+	if(isAndroid) {
+		addElementMeta('x5-fullscreen', 'true');
+		addElementMeta('x5-page-mode', 'app');
+	}
+</script> 
+    <script>
+  (function() {
+    var _versionDate = new Date().getTime();
+    if(location.protocol == 'https:'){
+      var _path = 'https://res.szse.cn';
+    }else{
+      var _path = 'http://res.static.szse.cn';
+    }
+    _path = _path.replace(".static.", ".");
+    //var _path = 'http://res.szse.cn';
+    //document.write( " <script src='" + _path + "/common/js/first.js?random=" + _versionDate + "'> <\/script> ");
+    var _host = 'http://www.szse.cn';
+    if(location.protocol == 'https:'){
+        _host = 'https://www.szse.cn';
+    }
+    document.write( " <script src='" + _host + "/szsePath.js?random=" + _versionDate + "'> <\/script> "
+    +" <script src='" + _path + "/common/js/concatversion.js?random=" + _versionDate + "'> <\/script> ");
+  }());
+</script>
+<!-- <script src="http://res.static.szse.cn/lib/td-h5-website-sdk.js" td-appid="56FD3F8B428A47FAB9A3F2191498B29D"></script> -->
+<script>
+    addComCssFile()
+</script> 
+    <style>
+      .g-content{
+        width: 100%;
+      }
+    </style>
+</head>
+<body>
+    <!--[if lt IE 9]>
+	<div class="low_version">
+	 	<div class="g-container inner">
+		    <div class="tip">系统检测到您正在使用IE8以下内核的浏览器，不能实现完美体验，请及时更新浏览器版本！</div>
+		    <span class="low_close">&times;</span>
+		</div>
+	</div>
+<style type="text/css">
+.top-header-container{
+  margin-top:30px;
+}
+</style>
+    <script src="http://res.static.szse.cn/lib/ie8fix/html5shiv/3.7.3/html5shiv.min.js"></script>       
+    <script src="http://res.static.szse.cn/lib/ie8fix/Respond-master/dest/respond.min.js"> </script>
+    <script src="http://res.static.szse.cn/lib/ie8fix/es5-shim/4.2.0/es5-shim.min.js"></script>
+    <script src="http://res.static.szse.cn/lib/ie8fix/JSON/3.3.2/json3.min.js"></script>
+    <script src="http://res.static.szse.cn/lib/ie8fix/iefix/ie8fix.js"></script>
+<![endif]-->
+    <div class="top-header-container clearfix  hidden-xs">
+    <div class="g-container">
+        <div class="pull-left" style="display: none;">
+            <div class="top-subweb-list item">
+                <a href="javascript:void(0);" class="">乐富基金子网站</a>
+                <a href="javascript:void(0);" class="ml10">固收子网站</a>
+                <a href="javascript:void(0);" class="ml10">投教子网站</a>
+            </div>
+        </div>
+        <div class="pull-right">
+            <div class="top-menu-list">
+
+
+                <div class="item item-home"><a class="link-home" href="/">官网首页</a></div>
+                <div class="item item-loginregist">
+                    <a class="link-login" href="javascript:void(0)">个人中心</a>
+                    <!--<span class="sepline">|</span>
+                    <a class="link-reg" href="/modules/regist/views/index.html">注册</a>-->
+                </div>
+                <div class="item item-subsiteLink">
+                    <span class="subsiteLink">子站链接</span>
+                    <ul class="dropdown-menu mouseover-menu">
+                        
+                            <li>
+                                <a href="http://listing.szse.cn" target="_blank">
+                                    创业板注册制
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="http://www.szse.cn/ydyl/index.html" target="_blank">
+                                    一带一路
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="http://www.szse.cn/szhk/index.html" target="_blank">
+                                    深港通
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="http://investor.szse.cn/" target="_blank">
+                                    投资者教育
+                                </a>
+                            </li>
+                        
+                    </ul>   
+                </div>
+                <div class="item">
+                    <div class="languageswitch">
+                        <a class="btn-goenglish itemlink-goenglish" href="#" target="_blank">English</a>
+                    </div>
+                   
+                </div>
+                <div class="item">
+                    <div class="languageswitch" >
+                        <a class="big5OrSimp" href="">繁体中文</a>
+                    </div>
+                    <script>
+                        changeVertion('/common/js/toggleBig5.js','js');
+                    </script>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="navbar szse-navbar szse-navbar-pc">
+    <div class="g-container clearfix">
+        <div class="navbar-headers ">
+            <a href="/" class="navbar-brand">
+               <img class="nav-logo" src="http://res.static.szse.cn/common/icon/logo.png" alt="深交所" />
+            </a>
+            <div class="nav-logo-tit">
+                <div>用户入口</div>
+            </div>
+        </div>
+       <div class="top-search-el">
+              <form class="search-form" action target="frameFile">
+                  <input id="pcSearchInput" type="search" maxlength="100" class="search-input need-repaired-placeholder" autocomplete="off" placeholder="请输入关键字" />
+                  <input type="text" style="display: none;" />
+                  <span class="clear-keyword">&times;</span>
+                  <button class="search-btn" type="button"><span class="glyphicon glyphicon-search"></span></button>
+              </form>
+              <div class="search-hot"></div>
+       </div>
+     
+    </div>
+    <nav class="collapse navbar-collapse bs-navbar-collapse  navbar-wrap">
+        <div class="g-container">
+            <div class="nav-customize-item">
+                <a href="/application/userCenter/customize/" class="nav-customize"><i></i>我的定制<span></span></a>
+            </div>
+            <div class="nav-box szsenav-box">
+              <script>
+                try {
+                  navMenuAJAX('/navMenu/index.html', '/navMenu/index.html','pcMenu','www');
+                } catch (e) {
+
+                }
+              </script>
+            </div>
+        </div>
+    </nav>
+</div>
+<div class="navbar-fixed-top navmobile szse-navbar szse-navbar-mobile szsenavbarmobile">
+    <div class="mobile-search">
+        <div class="mobile-search_container">
+        	<div class="mobile-search_form">
+        	    <div class="top-search-el">
+        	           <div class="search-form">
+                               <form action target="frameFile" id="searh_form">
+                                   <input id="mobileSearchInput" type="search" class="mobile-search_input search-input need-repaired-placeholder" placeholder="请输入关键字" />
+                                   <input type="text" style="display: none;" />
+                                   <iframe name="frameFile" style="display: none;"></iframe>
+                               </form>
+
+        	              
+        	               <!-- <input type="button" class="search-btn" value="搜索" /> -->
+        	           </div>
+        	       </div>
+        	    <!-- <input class="mobile-search_input" type="text" name="topbarSearch" placeholder="搜索行情/公告/其他信息" /> -->
+        	    <img class="mobile-search_close" src="http://res.static.szse.cn/common/icon/mobile-search_close.png" alt="search close" />
+        	</div>
+        </div>
+    </div>
+   <div id="dl-menu" class="dl-menuwrapper">
+             <a class="navipone_block"><span class="glyphicon glyphicon-search"></span></a>
+             <a class="navbar-brand" href="/"><img src="http://res.static.szse.cn/common/icon/logo.png" alt="深交所" /></a>
+             <button class="dl-trigger dl-phmenu"></button>
+             
+             <script>
+                try {
+                  navMenuAJAX('/navMenu/index.html', '/navMenu/index.html','mobileMenu','www');
+                } catch (e) {
+
+                }
+              </script>
+             <script>
+                changeVertion('/common/js/toggleBig5.js','js');
+             </script>
+         </div>
+</div>
+    <div class="g-locationnav">
+      <div class="banner-wrap">
+        <img src="http://res.static.szse.cn/common/images/legalrules-banner.jpg" />
+      </div>
+      <div class="g-container">
+        <div class="g-banner-txt">
+              <h2 class="hidden-xs">时政要闻</h2>
+            </div>
+      </div>
+    </div>
+    <script>
+        var articleCount=0
+        
+                 articleCount=1
+            
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    </script>
+    <div class="g-container-wrap">
+        <div class="g-container">
+            
+            <div class="g-content">
+                <div class="g-conbox">
+                    
+                    <div class="report-query  mainquery-container">                
+                      <div class="form-group form-condition">
+                        <label class="sr-only" for="code">输入关键字</label>
+                          <input maxlength="100" type="text" class="form-control report-query-item input-typeahead" id="article-text" placeholder="输入关键字" value="" />
+                      </div>
+                      <div class="form-group form-condition">
+                        <label class="sr-only" for="aticle-datepicker">发布日期</label>
+                          <input type="text" class="form-control report-query-item" id="aticle-datepicker" value="" placeholder="发布日期" />
+                      </div>
+                      <div class="form-group form-condition">
+                        <button type="button" class= "confirm-query btn-query-primary">查询</button>  
+                      </div>              
+                    </div>  
+                    <div class="article-list">
+                        <div class="g-content-list">
+                           <ul class="newslist date-right">
+                                
+                                    <li>  
+                                          <div class="title">
+                                          
+                                           <script>
+  
+    var curHref = 'http://www.gov.cn/xinwen/2022-04/13/content_5685109.htm';
+    //var curTitle = '习近平在海南考察时强调：解放思想开拓创新团结奋斗攻坚克难 加快建设具有世界影响力的中国特色自由贸易港';
+//var subTitle = '';
+ var curTitle ='习近平在海南考察时强调：解放思想开拓创新团结奋斗攻坚克难 加快建设具有世界影响力的中国特色自由贸易港';
+    var curCmsDocType = '30'
+    var curTarget = '';
+    var pointIndex = curHref.lastIndexOf('.');
+    var docType = curHref.substring(pointIndex+1).toLocaleLowerCase();
+    if (!(docType == 'html' || docType == 'pdf' || docType == 'xml' || docType == 'txt' || docType == 'jpg' || docType == 'png' || docType == 'jpeg' || docType == 'bmp') && curCmsDocType != 30) {
+        curTarget = '_self';
+    } else {
+        curTarget = '_blank';
+    }
+    var channelName = 'currentAffairs';
+    var doingFlagHtml='';
+    //进行中标识
+    if(channelName == 'questionnaire_news' && subTitle =='进行中'){
+    	doingFlagHtml = '<span class="surveyIsDoing">进行中</span>';
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>');  
+    } else if((channelName  == 'introduce_hidden' || channelName  == 'serveGuide_hidden' || channelName  == 'dataInterface_hidden' || channelName  == 'technicalGuide_hidden')&& '1'==1){
+    //技术服务页面，判断是否第一条是置顶
+       doingFlagHtml = '<span class="surveyIsDoing">置顶</span>';
+       document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>'); 
+    }else{
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">' + curTitle + '</a>');  
+    }
+
+    
+    
+</script>
+
+                                            <span class="time">
+                                             2022-04-14
+                                            </span>
+                                        </div>
+                                    </li>
+                                
+                                    <li>  
+                                          <div class="title">
+                                          
+                                           <script>
+  
+    var curHref = 'http://www.gov.cn/xinwen/2022-04/13/content_5684960.htm';
+    //var curTitle = '习近平在海南洋浦经济开发区考察调研';
+//var subTitle = '';
+ var curTitle ='习近平在海南洋浦经济开发区考察调研';
+    var curCmsDocType = '30'
+    var curTarget = '';
+    var pointIndex = curHref.lastIndexOf('.');
+    var docType = curHref.substring(pointIndex+1).toLocaleLowerCase();
+    if (!(docType == 'html' || docType == 'pdf' || docType == 'xml' || docType == 'txt' || docType == 'jpg' || docType == 'png' || docType == 'jpeg' || docType == 'bmp') && curCmsDocType != 30) {
+        curTarget = '_self';
+    } else {
+        curTarget = '_blank';
+    }
+    var channelName = 'currentAffairs';
+    var doingFlagHtml='';
+    //进行中标识
+    if(channelName == 'questionnaire_news' && subTitle =='进行中'){
+    	doingFlagHtml = '<span class="surveyIsDoing">进行中</span>';
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>');  
+    } else if((channelName  == 'introduce_hidden' || channelName  == 'serveGuide_hidden' || channelName  == 'dataInterface_hidden' || channelName  == 'technicalGuide_hidden')&& '2'==1){
+    //技术服务页面，判断是否第一条是置顶
+       doingFlagHtml = '<span class="surveyIsDoing">置顶</span>';
+       document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>'); 
+    }else{
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">' + curTitle + '</a>');  
+    }
+
+    
+    
+</script>
+
+                                            <span class="time">
+                                             2022-04-14
+                                            </span>
+                                        </div>
+                                    </li>
+                                
+                                    <li>  
+                                          <div class="title">
+                                          
+                                           <script>
+  
+    var curHref = 'http://www.gov.cn/xinwen/2022-04/12/content_5684756.htm';
+    //var curTitle = '习近平在海南五指山市考察调研';
+//var subTitle = '';
+ var curTitle ='习近平在海南五指山市考察调研';
+    var curCmsDocType = '30'
+    var curTarget = '';
+    var pointIndex = curHref.lastIndexOf('.');
+    var docType = curHref.substring(pointIndex+1).toLocaleLowerCase();
+    if (!(docType == 'html' || docType == 'pdf' || docType == 'xml' || docType == 'txt' || docType == 'jpg' || docType == 'png' || docType == 'jpeg' || docType == 'bmp') && curCmsDocType != 30) {
+        curTarget = '_self';
+    } else {
+        curTarget = '_blank';
+    }
+    var channelName = 'currentAffairs';
+    var doingFlagHtml='';
+    //进行中标识
+    if(channelName == 'questionnaire_news' && subTitle =='进行中'){
+    	doingFlagHtml = '<span class="surveyIsDoing">进行中</span>';
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>');  
+    } else if((channelName  == 'introduce_hidden' || channelName  == 'serveGuide_hidden' || channelName  == 'dataInterface_hidden' || channelName  == 'technicalGuide_hidden')&& '3'==1){
+    //技术服务页面，判断是否第一条是置顶
+       doingFlagHtml = '<span class="surveyIsDoing">置顶</span>';
+       document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>'); 
+    }else{
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">' + curTitle + '</a>');  
+    }
+
+    
+    
+</script>
+
+                                            <span class="time">
+                                             2022-04-13
+                                            </span>
+                                        </div>
+                                    </li>
+                                
+                                    <li>  
+                                          <div class="title">
+                                          
+                                           <script>
+  
+    var curHref = 'http://www.gov.cn/xinwen/2022-04/12/content_5684763.htm';
+    //var curTitle = '习近平：把所有的精力都用在让老百姓过好日子上';
+//var subTitle = '';
+ var curTitle ='习近平：把所有的精力都用在让老百姓过好日子上';
+    var curCmsDocType = '30'
+    var curTarget = '';
+    var pointIndex = curHref.lastIndexOf('.');
+    var docType = curHref.substring(pointIndex+1).toLocaleLowerCase();
+    if (!(docType == 'html' || docType == 'pdf' || docType == 'xml' || docType == 'txt' || docType == 'jpg' || docType == 'png' || docType == 'jpeg' || docType == 'bmp') && curCmsDocType != 30) {
+        curTarget = '_self';
+    } else {
+        curTarget = '_blank';
+    }
+    var channelName = 'currentAffairs';
+    var doingFlagHtml='';
+    //进行中标识
+    if(channelName == 'questionnaire_news' && subTitle =='进行中'){
+    	doingFlagHtml = '<span class="surveyIsDoing">进行中</span>';
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>');  
+    } else if((channelName  == 'introduce_hidden' || channelName  == 'serveGuide_hidden' || channelName  == 'dataInterface_hidden' || channelName  == 'technicalGuide_hidden')&& '4'==1){
+    //技术服务页面，判断是否第一条是置顶
+       doingFlagHtml = '<span class="surveyIsDoing">置顶</span>';
+       document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>'); 
+    }else{
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">' + curTitle + '</a>');  
+    }
+
+    
+    
+</script>
+
+                                            <span class="time">
+                                             2022-04-13
+                                            </span>
+                                        </div>
+                                    </li>
+                                
+                                    <li>  
+                                          <div class="title">
+                                          
+                                           <script>
+  
+    var curHref = 'http://www.gov.cn/xinwen/2022-04/12/content_5684762.htm';
+    //var curTitle = '习近平：海南国家公园建设是“国之大者”';
+//var subTitle = '';
+ var curTitle ='习近平：海南国家公园建设是“国之大者”';
+    var curCmsDocType = '30'
+    var curTarget = '';
+    var pointIndex = curHref.lastIndexOf('.');
+    var docType = curHref.substring(pointIndex+1).toLocaleLowerCase();
+    if (!(docType == 'html' || docType == 'pdf' || docType == 'xml' || docType == 'txt' || docType == 'jpg' || docType == 'png' || docType == 'jpeg' || docType == 'bmp') && curCmsDocType != 30) {
+        curTarget = '_self';
+    } else {
+        curTarget = '_blank';
+    }
+    var channelName = 'currentAffairs';
+    var doingFlagHtml='';
+    //进行中标识
+    if(channelName == 'questionnaire_news' && subTitle =='进行中'){
+    	doingFlagHtml = '<span class="surveyIsDoing">进行中</span>';
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>');  
+    } else if((channelName  == 'introduce_hidden' || channelName  == 'serveGuide_hidden' || channelName  == 'dataInterface_hidden' || channelName  == 'technicalGuide_hidden')&& '5'==1){
+    //技术服务页面，判断是否第一条是置顶
+       doingFlagHtml = '<span class="surveyIsDoing">置顶</span>';
+       document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>'); 
+    }else{
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">' + curTitle + '</a>');  
+    }
+
+    
+    
+</script>
+
+                                            <span class="time">
+                                             2022-04-13
+                                            </span>
+                                        </div>
+                                    </li>
+                                
+                                    <li>  
+                                          <div class="title">
+                                          
+                                           <script>
+  
+    var curHref = 'http://www.gov.cn/xinwen/2022-04/12/content_5684774.htm';
+    //var curTitle = '习近平《在北京冬奥会、冬残奥会总结表彰大会上的讲话》单行本出版';
+//var subTitle = '';
+ var curTitle ='习近平《在北京冬奥会、冬残奥会总结表彰大会上的讲话》单行本出版';
+    var curCmsDocType = '30'
+    var curTarget = '';
+    var pointIndex = curHref.lastIndexOf('.');
+    var docType = curHref.substring(pointIndex+1).toLocaleLowerCase();
+    if (!(docType == 'html' || docType == 'pdf' || docType == 'xml' || docType == 'txt' || docType == 'jpg' || docType == 'png' || docType == 'jpeg' || docType == 'bmp') && curCmsDocType != 30) {
+        curTarget = '_self';
+    } else {
+        curTarget = '_blank';
+    }
+    var channelName = 'currentAffairs';
+    var doingFlagHtml='';
+    //进行中标识
+    if(channelName == 'questionnaire_news' && subTitle =='进行中'){
+    	doingFlagHtml = '<span class="surveyIsDoing">进行中</span>';
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>');  
+    } else if((channelName  == 'introduce_hidden' || channelName  == 'serveGuide_hidden' || channelName  == 'dataInterface_hidden' || channelName  == 'technicalGuide_hidden')&& '6'==1){
+    //技术服务页面，判断是否第一条是置顶
+       doingFlagHtml = '<span class="surveyIsDoing">置顶</span>';
+       document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>'); 
+    }else{
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">' + curTitle + '</a>');  
+    }
+
+    
+    
+</script>
+
+                                            <span class="time">
+                                             2022-04-13
+                                            </span>
+                                        </div>
+                                    </li>
+                                
+                                    <li>  
+                                          <div class="title">
+                                          
+                                           <script>
+  
+    var curHref = 'http://www.gov.cn/xinwen/2022-04/11/content_5684494.htm';
+    //var curTitle = '习近平在海南三亚市考察调研';
+//var subTitle = '';
+ var curTitle ='习近平在海南三亚市考察调研';
+    var curCmsDocType = '30'
+    var curTarget = '';
+    var pointIndex = curHref.lastIndexOf('.');
+    var docType = curHref.substring(pointIndex+1).toLocaleLowerCase();
+    if (!(docType == 'html' || docType == 'pdf' || docType == 'xml' || docType == 'txt' || docType == 'jpg' || docType == 'png' || docType == 'jpeg' || docType == 'bmp') && curCmsDocType != 30) {
+        curTarget = '_self';
+    } else {
+        curTarget = '_blank';
+    }
+    var channelName = 'currentAffairs';
+    var doingFlagHtml='';
+    //进行中标识
+    if(channelName == 'questionnaire_news' && subTitle =='进行中'){
+    	doingFlagHtml = '<span class="surveyIsDoing">进行中</span>';
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>');  
+    } else if((channelName  == 'introduce_hidden' || channelName  == 'serveGuide_hidden' || channelName  == 'dataInterface_hidden' || channelName  == 'technicalGuide_hidden')&& '7'==1){
+    //技术服务页面，判断是否第一条是置顶
+       doingFlagHtml = '<span class="surveyIsDoing">置顶</span>';
+       document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>'); 
+    }else{
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">' + curTitle + '</a>');  
+    }
+
+    
+    
+</script>
+
+                                            <span class="time">
+                                             2022-04-12
+                                            </span>
+                                        </div>
+                                    </li>
+                                
+                                    <li>  
+                                          <div class="title">
+                                          
+                                           <script>
+  
+    var curHref = 'http://www.gov.cn/xinwen/2022-04/11/content_5684512.htm';
+    //var curTitle = '习近平：只有攥紧中国种子，才能端稳中国饭碗';
+//var subTitle = '';
+ var curTitle ='习近平：只有攥紧中国种子，才能端稳中国饭碗';
+    var curCmsDocType = '30'
+    var curTarget = '';
+    var pointIndex = curHref.lastIndexOf('.');
+    var docType = curHref.substring(pointIndex+1).toLocaleLowerCase();
+    if (!(docType == 'html' || docType == 'pdf' || docType == 'xml' || docType == 'txt' || docType == 'jpg' || docType == 'png' || docType == 'jpeg' || docType == 'bmp') && curCmsDocType != 30) {
+        curTarget = '_self';
+    } else {
+        curTarget = '_blank';
+    }
+    var channelName = 'currentAffairs';
+    var doingFlagHtml='';
+    //进行中标识
+    if(channelName == 'questionnaire_news' && subTitle =='进行中'){
+    	doingFlagHtml = '<span class="surveyIsDoing">进行中</span>';
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>');  
+    } else if((channelName  == 'introduce_hidden' || channelName  == 'serveGuide_hidden' || channelName  == 'dataInterface_hidden' || channelName  == 'technicalGuide_hidden')&& '8'==1){
+    //技术服务页面，判断是否第一条是置顶
+       doingFlagHtml = '<span class="surveyIsDoing">置顶</span>';
+       document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>'); 
+    }else{
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">' + curTitle + '</a>');  
+    }
+
+    
+    
+</script>
+
+                                            <span class="time">
+                                             2022-04-12
+                                            </span>
+                                        </div>
+                                    </li>
+                                
+                                    <li>  
+                                          <div class="title">
+                                          
+                                           <script>
+  
+    var curHref = 'http://www.gov.cn/zhengce/2022-04/11/content_5684555.htm';
+    //var curTitle = '中共中央办公厅 国务院办公厅印发《关于推进新时代古籍工作的意见》';
+//var subTitle = '';
+ var curTitle ='中共中央办公厅 国务院办公厅印发《关于推进新时代古籍工作的意见》';
+    var curCmsDocType = '30'
+    var curTarget = '';
+    var pointIndex = curHref.lastIndexOf('.');
+    var docType = curHref.substring(pointIndex+1).toLocaleLowerCase();
+    if (!(docType == 'html' || docType == 'pdf' || docType == 'xml' || docType == 'txt' || docType == 'jpg' || docType == 'png' || docType == 'jpeg' || docType == 'bmp') && curCmsDocType != 30) {
+        curTarget = '_self';
+    } else {
+        curTarget = '_blank';
+    }
+    var channelName = 'currentAffairs';
+    var doingFlagHtml='';
+    //进行中标识
+    if(channelName == 'questionnaire_news' && subTitle =='进行中'){
+    	doingFlagHtml = '<span class="surveyIsDoing">进行中</span>';
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>');  
+    } else if((channelName  == 'introduce_hidden' || channelName  == 'serveGuide_hidden' || channelName  == 'dataInterface_hidden' || channelName  == 'technicalGuide_hidden')&& '9'==1){
+    //技术服务页面，判断是否第一条是置顶
+       doingFlagHtml = '<span class="surveyIsDoing">置顶</span>';
+       document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>'); 
+    }else{
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">' + curTitle + '</a>');  
+    }
+
+    
+    
+</script>
+
+                                            <span class="time">
+                                             2022-04-12
+                                            </span>
+                                        </div>
+                                    </li>
+                                
+                                    <li>  
+                                          <div class="title">
+                                          
+                                           <script>
+  
+    var curHref = 'http://www.gov.cn/zhengce/content/2022-04/11/content_5684533.htm';
+    //var curTitle = '国务院联防联控机制印发《关于切实做好货运物流保通保畅工作的通知》';
+//var subTitle = '';
+ var curTitle ='国务院联防联控机制印发《关于切实做好货运物流保通保畅工作的通知》';
+    var curCmsDocType = '30'
+    var curTarget = '';
+    var pointIndex = curHref.lastIndexOf('.');
+    var docType = curHref.substring(pointIndex+1).toLocaleLowerCase();
+    if (!(docType == 'html' || docType == 'pdf' || docType == 'xml' || docType == 'txt' || docType == 'jpg' || docType == 'png' || docType == 'jpeg' || docType == 'bmp') && curCmsDocType != 30) {
+        curTarget = '_self';
+    } else {
+        curTarget = '_blank';
+    }
+    var channelName = 'currentAffairs';
+    var doingFlagHtml='';
+    //进行中标识
+    if(channelName == 'questionnaire_news' && subTitle =='进行中'){
+    	doingFlagHtml = '<span class="surveyIsDoing">进行中</span>';
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>');  
+    } else if((channelName  == 'introduce_hidden' || channelName  == 'serveGuide_hidden' || channelName  == 'dataInterface_hidden' || channelName  == 'technicalGuide_hidden')&& '10'==1){
+    //技术服务页面，判断是否第一条是置顶
+       doingFlagHtml = '<span class="surveyIsDoing">置顶</span>';
+       document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>'); 
+    }else{
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">' + curTitle + '</a>');  
+    }
+
+    
+    
+</script>
+
+                                            <span class="time">
+                                             2022-04-12
+                                            </span>
+                                        </div>
+                                    </li>
+                                
+                                    <li>  
+                                          <div class="title">
+                                          
+                                           <script>
+  
+    var curHref = 'http://www.gov.cn/xinwen/2022-04/10/content_5684330.htm';
+    //var curTitle = '习近平的人民情怀';
+//var subTitle = '';
+ var curTitle ='习近平的人民情怀';
+    var curCmsDocType = '30'
+    var curTarget = '';
+    var pointIndex = curHref.lastIndexOf('.');
+    var docType = curHref.substring(pointIndex+1).toLocaleLowerCase();
+    if (!(docType == 'html' || docType == 'pdf' || docType == 'xml' || docType == 'txt' || docType == 'jpg' || docType == 'png' || docType == 'jpeg' || docType == 'bmp') && curCmsDocType != 30) {
+        curTarget = '_self';
+    } else {
+        curTarget = '_blank';
+    }
+    var channelName = 'currentAffairs';
+    var doingFlagHtml='';
+    //进行中标识
+    if(channelName == 'questionnaire_news' && subTitle =='进行中'){
+    	doingFlagHtml = '<span class="surveyIsDoing">进行中</span>';
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>');  
+    } else if((channelName  == 'introduce_hidden' || channelName  == 'serveGuide_hidden' || channelName  == 'dataInterface_hidden' || channelName  == 'technicalGuide_hidden')&& '11'==1){
+    //技术服务页面，判断是否第一条是置顶
+       doingFlagHtml = '<span class="surveyIsDoing">置顶</span>';
+       document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>'); 
+    }else{
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">' + curTitle + '</a>');  
+    }
+
+    
+    
+</script>
+
+                                            <span class="time">
+                                             2022-04-11
+                                            </span>
+                                        </div>
+                                    </li>
+                                
+                                    <li>  
+                                          <div class="title">
+                                          
+                                           <script>
+  
+    var curHref = 'http://www.gov.cn/xinwen/2022-04/10/content_5684311.htm';
+    //var curTitle = '圆梦再出发——习近平总书记出席北京冬奥会冬残奥会总结表彰大会侧记';
+//var subTitle = '';
+ var curTitle ='圆梦再出发——习近平总书记出席北京冬奥会冬残奥会总结表彰大会侧记';
+    var curCmsDocType = '30'
+    var curTarget = '';
+    var pointIndex = curHref.lastIndexOf('.');
+    var docType = curHref.substring(pointIndex+1).toLocaleLowerCase();
+    if (!(docType == 'html' || docType == 'pdf' || docType == 'xml' || docType == 'txt' || docType == 'jpg' || docType == 'png' || docType == 'jpeg' || docType == 'bmp') && curCmsDocType != 30) {
+        curTarget = '_self';
+    } else {
+        curTarget = '_blank';
+    }
+    var channelName = 'currentAffairs';
+    var doingFlagHtml='';
+    //进行中标识
+    if(channelName == 'questionnaire_news' && subTitle =='进行中'){
+    	doingFlagHtml = '<span class="surveyIsDoing">进行中</span>';
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>');  
+    } else if((channelName  == 'introduce_hidden' || channelName  == 'serveGuide_hidden' || channelName  == 'dataInterface_hidden' || channelName  == 'technicalGuide_hidden')&& '12'==1){
+    //技术服务页面，判断是否第一条是置顶
+       doingFlagHtml = '<span class="surveyIsDoing">置顶</span>';
+       document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>'); 
+    }else{
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">' + curTitle + '</a>');  
+    }
+
+    
+    
+</script>
+
+                                            <span class="time">
+                                             2022-04-11
+                                            </span>
+                                        </div>
+                                    </li>
+                                
+                                    <li>  
+                                          <div class="title">
+                                          
+                                           <script>
+  
+    var curHref = 'http://www.gov.cn/xinwen/2022-04/08/content_5684205.htm';
+    //var curTitle = '习近平：在北京冬奥会、冬残奥会总结表彰大会上的讲话';
+//var subTitle = '';
+ var curTitle ='习近平：在北京冬奥会、冬残奥会总结表彰大会上的讲话';
+    var curCmsDocType = '30'
+    var curTarget = '';
+    var pointIndex = curHref.lastIndexOf('.');
+    var docType = curHref.substring(pointIndex+1).toLocaleLowerCase();
+    if (!(docType == 'html' || docType == 'pdf' || docType == 'xml' || docType == 'txt' || docType == 'jpg' || docType == 'png' || docType == 'jpeg' || docType == 'bmp') && curCmsDocType != 30) {
+        curTarget = '_self';
+    } else {
+        curTarget = '_blank';
+    }
+    var channelName = 'currentAffairs';
+    var doingFlagHtml='';
+    //进行中标识
+    if(channelName == 'questionnaire_news' && subTitle =='进行中'){
+    	doingFlagHtml = '<span class="surveyIsDoing">进行中</span>';
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>');  
+    } else if((channelName  == 'introduce_hidden' || channelName  == 'serveGuide_hidden' || channelName  == 'dataInterface_hidden' || channelName  == 'technicalGuide_hidden')&& '13'==1){
+    //技术服务页面，判断是否第一条是置顶
+       doingFlagHtml = '<span class="surveyIsDoing">置顶</span>';
+       document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>'); 
+    }else{
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">' + curTitle + '</a>');  
+    }
+
+    
+    
+</script>
+
+                                            <span class="time">
+                                             2022-04-11
+                                            </span>
+                                        </div>
+                                    </li>
+                                
+                                    <li>  
+                                          <div class="title">
+                                          
+                                           <script>
+  
+    var curHref = 'http://www.gov.cn/xinwen/2022-04/08/content_5684173.htm';
+    //var curTitle = '北京冬奥会冬残奥会总结表彰大会隆重举行 习近平发表重要讲话';
+//var subTitle = '';
+ var curTitle ='北京冬奥会冬残奥会总结表彰大会隆重举行 习近平发表重要讲话';
+    var curCmsDocType = '30'
+    var curTarget = '';
+    var pointIndex = curHref.lastIndexOf('.');
+    var docType = curHref.substring(pointIndex+1).toLocaleLowerCase();
+    if (!(docType == 'html' || docType == 'pdf' || docType == 'xml' || docType == 'txt' || docType == 'jpg' || docType == 'png' || docType == 'jpeg' || docType == 'bmp') && curCmsDocType != 30) {
+        curTarget = '_self';
+    } else {
+        curTarget = '_blank';
+    }
+    var channelName = 'currentAffairs';
+    var doingFlagHtml='';
+    //进行中标识
+    if(channelName == 'questionnaire_news' && subTitle =='进行中'){
+    	doingFlagHtml = '<span class="surveyIsDoing">进行中</span>';
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>');  
+    } else if((channelName  == 'introduce_hidden' || channelName  == 'serveGuide_hidden' || channelName  == 'dataInterface_hidden' || channelName  == 'technicalGuide_hidden')&& '14'==1){
+    //技术服务页面，判断是否第一条是置顶
+       doingFlagHtml = '<span class="surveyIsDoing">置顶</span>';
+       document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>'); 
+    }else{
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">' + curTitle + '</a>');  
+    }
+
+    
+    
+</script>
+
+                                            <span class="time">
+                                             2022-04-11
+                                            </span>
+                                        </div>
+                                    </li>
+                                
+                                    <li>  
+                                          <div class="title">
+                                          
+                                           <script>
+  
+    var curHref = 'http://www.gov.cn/xinwen/2022-04/08/content_5684126.htm';
+    //var curTitle = '习近平同菲律宾总统杜特尔特通电话';
+//var subTitle = '';
+ var curTitle ='习近平同菲律宾总统杜特尔特通电话';
+    var curCmsDocType = '30'
+    var curTarget = '';
+    var pointIndex = curHref.lastIndexOf('.');
+    var docType = curHref.substring(pointIndex+1).toLocaleLowerCase();
+    if (!(docType == 'html' || docType == 'pdf' || docType == 'xml' || docType == 'txt' || docType == 'jpg' || docType == 'png' || docType == 'jpeg' || docType == 'bmp') && curCmsDocType != 30) {
+        curTarget = '_self';
+    } else {
+        curTarget = '_blank';
+    }
+    var channelName = 'currentAffairs';
+    var doingFlagHtml='';
+    //进行中标识
+    if(channelName == 'questionnaire_news' && subTitle =='进行中'){
+    	doingFlagHtml = '<span class="surveyIsDoing">进行中</span>';
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>');  
+    } else if((channelName  == 'introduce_hidden' || channelName  == 'serveGuide_hidden' || channelName  == 'dataInterface_hidden' || channelName  == 'technicalGuide_hidden')&& '15'==1){
+    //技术服务页面，判断是否第一条是置顶
+       doingFlagHtml = '<span class="surveyIsDoing">置顶</span>';
+       document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>'); 
+    }else{
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">' + curTitle + '</a>');  
+    }
+
+    
+    
+</script>
+
+                                            <span class="time">
+                                             2022-04-11
+                                            </span>
+                                        </div>
+                                    </li>
+                                
+                                    <li>  
+                                          <div class="title">
+                                          
+                                           <script>
+  
+    var curHref = 'http://www.gov.cn/zhengce/2022-04/10/content_5684385.htm';
+    //var curTitle = '中共中央 国务院关于加快建设全国统一大市场的意见';
+//var subTitle = '';
+ var curTitle ='中共中央 国务院关于加快建设全国统一大市场的意见';
+    var curCmsDocType = '30'
+    var curTarget = '';
+    var pointIndex = curHref.lastIndexOf('.');
+    var docType = curHref.substring(pointIndex+1).toLocaleLowerCase();
+    if (!(docType == 'html' || docType == 'pdf' || docType == 'xml' || docType == 'txt' || docType == 'jpg' || docType == 'png' || docType == 'jpeg' || docType == 'bmp') && curCmsDocType != 30) {
+        curTarget = '_self';
+    } else {
+        curTarget = '_blank';
+    }
+    var channelName = 'currentAffairs';
+    var doingFlagHtml='';
+    //进行中标识
+    if(channelName == 'questionnaire_news' && subTitle =='进行中'){
+    	doingFlagHtml = '<span class="surveyIsDoing">进行中</span>';
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>');  
+    } else if((channelName  == 'introduce_hidden' || channelName  == 'serveGuide_hidden' || channelName  == 'dataInterface_hidden' || channelName  == 'technicalGuide_hidden')&& '16'==1){
+    //技术服务页面，判断是否第一条是置顶
+       doingFlagHtml = '<span class="surveyIsDoing">置顶</span>';
+       document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>'); 
+    }else{
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">' + curTitle + '</a>');  
+    }
+
+    
+    
+</script>
+
+                                            <span class="time">
+                                             2022-04-11
+                                            </span>
+                                        </div>
+                                    </li>
+                                
+                                    <li>  
+                                          <div class="title">
+                                          
+                                           <script>
+  
+    var curHref = 'http://www.gov.cn/zhengce/2022-04/08/content_5684054.htm';
+    //var curTitle = '中共中央 国务院关于表彰北京冬奥会、冬残奥会突出贡献集体和突出贡献个人的决定';
+//var subTitle = '';
+ var curTitle ='中共中央 国务院关于表彰北京冬奥会、冬残奥会突出贡献集体和突出贡献个人的决定';
+    var curCmsDocType = '30'
+    var curTarget = '';
+    var pointIndex = curHref.lastIndexOf('.');
+    var docType = curHref.substring(pointIndex+1).toLocaleLowerCase();
+    if (!(docType == 'html' || docType == 'pdf' || docType == 'xml' || docType == 'txt' || docType == 'jpg' || docType == 'png' || docType == 'jpeg' || docType == 'bmp') && curCmsDocType != 30) {
+        curTarget = '_self';
+    } else {
+        curTarget = '_blank';
+    }
+    var channelName = 'currentAffairs';
+    var doingFlagHtml='';
+    //进行中标识
+    if(channelName == 'questionnaire_news' && subTitle =='进行中'){
+    	doingFlagHtml = '<span class="surveyIsDoing">进行中</span>';
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>');  
+    } else if((channelName  == 'introduce_hidden' || channelName  == 'serveGuide_hidden' || channelName  == 'dataInterface_hidden' || channelName  == 'technicalGuide_hidden')&& '17'==1){
+    //技术服务页面，判断是否第一条是置顶
+       doingFlagHtml = '<span class="surveyIsDoing">置顶</span>';
+       document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>'); 
+    }else{
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">' + curTitle + '</a>');  
+    }
+
+    
+    
+</script>
+
+                                            <span class="time">
+                                             2022-04-11
+                                            </span>
+                                        </div>
+                                    </li>
+                                
+                                    <li>  
+                                          <div class="title">
+                                          
+                                           <script>
+  
+    var curHref = 'http://www.gov.cn/zhengce/content/2022-04/08/content_5684090.htm';
+    //var curTitle = '国务院办公厅印发《促进残疾人就业三年行动方案（2022—2024年）》';
+//var subTitle = '';
+ var curTitle ='国务院办公厅印发《促进残疾人就业三年行动方案（2022—2024年）》';
+    var curCmsDocType = '30'
+    var curTarget = '';
+    var pointIndex = curHref.lastIndexOf('.');
+    var docType = curHref.substring(pointIndex+1).toLocaleLowerCase();
+    if (!(docType == 'html' || docType == 'pdf' || docType == 'xml' || docType == 'txt' || docType == 'jpg' || docType == 'png' || docType == 'jpeg' || docType == 'bmp') && curCmsDocType != 30) {
+        curTarget = '_self';
+    } else {
+        curTarget = '_blank';
+    }
+    var channelName = 'currentAffairs';
+    var doingFlagHtml='';
+    //进行中标识
+    if(channelName == 'questionnaire_news' && subTitle =='进行中'){
+    	doingFlagHtml = '<span class="surveyIsDoing">进行中</span>';
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>');  
+    } else if((channelName  == 'introduce_hidden' || channelName  == 'serveGuide_hidden' || channelName  == 'dataInterface_hidden' || channelName  == 'technicalGuide_hidden')&& '18'==1){
+    //技术服务页面，判断是否第一条是置顶
+       doingFlagHtml = '<span class="surveyIsDoing">置顶</span>';
+       document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>'); 
+    }else{
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">' + curTitle + '</a>');  
+    }
+
+    
+    
+</script>
+
+                                            <span class="time">
+                                             2022-04-11
+                                            </span>
+                                        </div>
+                                    </li>
+                                
+                                    <li>  
+                                          <div class="title">
+                                          
+                                           <script>
+  
+    var curHref = 'http://www.gov.cn/xinwen/2022-04/08/content_5683962.htm';
+    //var curTitle = '共同的梦想 共同的未来——习近平总书记引领中国成功举办冬奥盛会';
+//var subTitle = '';
+ var curTitle ='共同的梦想 共同的未来——习近平总书记引领中国成功举办冬奥盛会';
+    var curCmsDocType = '30'
+    var curTarget = '';
+    var pointIndex = curHref.lastIndexOf('.');
+    var docType = curHref.substring(pointIndex+1).toLocaleLowerCase();
+    if (!(docType == 'html' || docType == 'pdf' || docType == 'xml' || docType == 'txt' || docType == 'jpg' || docType == 'png' || docType == 'jpeg' || docType == 'bmp') && curCmsDocType != 30) {
+        curTarget = '_self';
+    } else {
+        curTarget = '_blank';
+    }
+    var channelName = 'currentAffairs';
+    var doingFlagHtml='';
+    //进行中标识
+    if(channelName == 'questionnaire_news' && subTitle =='进行中'){
+    	doingFlagHtml = '<span class="surveyIsDoing">进行中</span>';
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>');  
+    } else if((channelName  == 'introduce_hidden' || channelName  == 'serveGuide_hidden' || channelName  == 'dataInterface_hidden' || channelName  == 'technicalGuide_hidden')&& '19'==1){
+    //技术服务页面，判断是否第一条是置顶
+       doingFlagHtml = '<span class="surveyIsDoing">置顶</span>';
+       document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>'); 
+    }else{
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">' + curTitle + '</a>');  
+    }
+
+    
+    
+</script>
+
+                                            <span class="time">
+                                             2022-04-08
+                                            </span>
+                                        </div>
+                                    </li>
+                                
+                                    <li>  
+                                          <div class="title">
+                                          
+                                           <script>
+  
+    var curHref = 'http://www.gov.cn/xinwen/2022-04/06/content_5683708.htm';
+    //var curTitle = '北京冬奥会冬残奥会总结表彰大会8日上午隆重举行 习近平将出席大会并发表重要讲话';
+//var subTitle = '';
+ var curTitle ='北京冬奥会冬残奥会总结表彰大会8日上午隆重举行 习近平将出席大会并发表重要讲话';
+    var curCmsDocType = '30'
+    var curTarget = '';
+    var pointIndex = curHref.lastIndexOf('.');
+    var docType = curHref.substring(pointIndex+1).toLocaleLowerCase();
+    if (!(docType == 'html' || docType == 'pdf' || docType == 'xml' || docType == 'txt' || docType == 'jpg' || docType == 'png' || docType == 'jpeg' || docType == 'bmp') && curCmsDocType != 30) {
+        curTarget = '_self';
+    } else {
+        curTarget = '_blank';
+    }
+    var channelName = 'currentAffairs';
+    var doingFlagHtml='';
+    //进行中标识
+    if(channelName == 'questionnaire_news' && subTitle =='进行中'){
+    	doingFlagHtml = '<span class="surveyIsDoing">进行中</span>';
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>');  
+    } else if((channelName  == 'introduce_hidden' || channelName  == 'serveGuide_hidden' || channelName  == 'dataInterface_hidden' || channelName  == 'technicalGuide_hidden')&& '20'==1){
+    //技术服务页面，判断是否第一条是置顶
+       doingFlagHtml = '<span class="surveyIsDoing">置顶</span>';
+       document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">'+ doingFlagHtml + curTitle + '</a>'); 
+    }else{
+    	document.write('<a class="ellipsis art-list-link" href="' + curHref + '" title="' + curTitle + '" target="' + curTarget + '">' + curTitle + '</a>');  
+    }
+
+    
+    
+</script>
+
+                                            <span class="time">
+                                             2022-04-07
+                                            </span>
+                                        </div>
+                                    </li>
+                                         
+                            </ul>
+                             <script>
+                                if(articleCount == 0){
+                                   var nodataHtml = ' <div class="report-nodata">'
+                                                 +       '<span class="nodata-text">没有找到符合条件的数据！</span>'
+                                                 +     '</div>';
+                                   document.write(nodataHtml);
+                                }
+                             </script>
+                        </div>
+                        <div class="article-list-paginator">
+                            <div class="paginator">
+                                <ul class="paginator-ul pagination paginator-article-cms"></ul>
+                                 <ul class="paginator-ul pagination paginator-article-list"></ul>                                                          
+                            </div>
+                            <script>
+                               var pageHtml = '';
+                               if(articleCount == 0){
+                                  pageHtml = ' <div class="current-page" style="display:none">'
+                                            +       '当前第<span class="num-cur"></span>页&nbsp;&nbsp;共<span class="num-all"></span>页'
+                                            +     '</div>';
+                                  document.write(pageHtml);
+                               }else{
+                                  pageHtml = ' <div class="current-page">'
+                                          +       '当前第<span class="num-cur"></span>页&nbsp;&nbsp;共<span class="num-all"></span>页'
+                                          +     '</div>';
+                                  document.write(pageHtml);
+                               }
+                            </script>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer-wrap">
+    <div class="footer-content">
+        <div class="g-container">
+            <div class="footer-contract clearfix">
+                <div class="footer-left relatedlinks">
+                    <div class="select_index_box">
+                        <div class="dropdown" id="dLabel">
+                            <a id="relatedlinksBtn" class="select_index" href="#dropdown-menu-1">
+                                <span class="tit">相关链接</span>
+                                <span class="con">   <i class="glyphicon glyphicon-chevron-down"></i>  </span>
+
+                            </a>
+                            <ul id="dropdown-menu-1" class="dropdown-menu">
+                                <li><a href="http://www.csrc.gov.cn/" target="_blank">中国证券监督管理委员会</a></li>
+                                <li><a href="http://www.sse.com.cn" target="_blank">上海证券交易所</a></li>
+                                <li><a href="http://www.bse.cn" target="_blank">北京证券交易所</a></li>
+                                <li><a href="http://www.cninfo.com.cn/" target="_blank">巨潮资讯网</a></li>
+                                <li><a href="http://www.cnindex.com.cn/" target="_blank">国证指数网</a></li>
+                                <li><a href="http://www.csindex.com.cn/" target="_blank">中证指数公司</a></li>
+                                <li><a href="http://www.neeq.com.cn/index" target="_blank">全国中小企业股份转让系统</a></li>
+                                <li><a href="http://www.capco.org.cn/" target="_blank">中国上市公司协会</a></li>
+                                <li><a href="http://www.ccmi.edu.cn/" target="_blank">资本市场学院</a></li>
+                                <li><a href="http://www.cesc.com/sc/index.html" target="_blank">中华证券交易服务</a></li>
+                                <li><a href="http://alsstjjh.org.cn/" target="_blank">阿拉善生态基金会</a></li>
+                            </ul>
+                        </div>
+                    </div> 
+                </div>
+                <div class="footer-center">
+                    <span class="footer-ipone">
+                      <i class="img imgtel"></i>400-808-9999</span>
+                    <span class="footer-email">
+                      <i class="img imgemail"></i>cis@szse.cn</span>
+                </div>
+                <div class="footer-right">
+                    <span>
+                        <a class="wxlink">
+                            <img class="wxcodeimg" src="http://res.static.szse.cn/common/images/wx_pic.gif" title="深交所二维码" alt="深交所二维码" />
+                            <img class="wxshareimg" src="http://res.static.szse.cn/common/icon/share-w.png" title="扫一扫关注" alt="扫一扫关注" /></a>
+                        <a class="wblink" href="http://weibo.com/szse" target="_blank">
+                            <img src="http://res.static.szse.cn/common/icon/share-wb.png" alt="微博" title="微博" /></a>
+
+<a class="applink">
+                               <img class="appcodeimg" src="http://res.static.szse.cn/common/images/appcode.png" alt="官网APP" title="官网APP" />
+                               <img class="appshareimg" src="http://res.static.szse.cn/common/icon/share-app.png" alt="扫一扫下载深交所官网APP" title="扫一扫下载深交所官网APP" />
+                           </a>
+
+
+                           <span class="footer-feedback" style="cursor: pointer;">意见反馈</span>
+                      </span>
+                    <!--   <span>信息订阅
+                        <a href="#">
+                          <img src="http://res.static.szse.cn/common/icon/share-wf.png" alt="" /></a>
+                      </span>   -->
+                </div>
+            </div>
+            <script>
+  try {
+    navMenuAJAX('/footerWrap/index.html','/footerWrap/index.html', 'footerMenu','www');
+  } catch (e) {
+
+  }
+
+
+</script>
+        </div>
+    </div>
+    <div class="footer-copyright">
+        <div class="g-container hidden-xs">
+            <div class="footersafe-con">
+                <a href="//bszs.conac.cn/sitename?method=show&amp;id=541B4DBFF36A103AE053022819ACAC5A" target="_blank">
+                    <img id="imgConac" src="http://res.static.szse.cn/common/icon/footer-icon-1.png" />
+                </a>
+                <a href="http://www.sznet110.gov.cn/netalarm/index.jsp" target="_blank">
+                    <img src="http://res.static.szse.cn/common/icon/footer-icon-2.png" />
+                </a>
+
+                <a href="http://www.sznet110.gov.cn/webrecord/innernet/Welcome.jsp?bano=4403201010119" target="_blank">
+                    <img src="http://res.static.szse.cn/common/icon/footer-icon-3.png" />
+                </a> 
+            </div>
+            <div class="con">
+                <div class="rule-tip">
+                    <a class="lawspublishlink" href="http://www.szse.cn/application/laws/index.html" target="_blank ">法律声明</a>
+                                          &nbsp;
+                        <a class="copyright-tip" href="http://beian.miit.gov.cn">粤ICP备05012689号</a><span>深圳证券交易所 版权所有 ©<span class="copyright-year"></span> Shenzhen Stock Exchange. All Rights Reserved</span>
+                </div>
+                <div class="ie-tip ">
+                    建议使用IE9.0以上浏览器，1280*800以上分辨率  <span style="margin-left: 20px;">本网站支持ipv6访问</span>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-copyright-mobile visible-xs ">
+            <div class="footersafe-con">
+                <a href="//bszs.conac.cn/sitename?method=show&amp;id=541B4DBFF36A103AE053022819ACAC5A" target="_blank">
+                                  <img id="imgConac" src="http://res.static.szse.cn/common/icon/footer-icon-1.png" />
+                              </a>
+                <a href="http://www.sznet110.gov.cn/netalarm/index.jsp" target="_blank">
+                                  <img src="http://res.static.szse.cn/common/icon/footer-icon-2.png" />
+                              </a>
+                <a href="http://www.sznet110.gov.cn/webrecord/innernet/Welcome.jsp?bano=4403201010119" target="_blank">
+                                  <img src="http://res.static.szse.cn/common/icon/footer-icon-3.png" />
+                              </a>
+            </div>
+                <div class="con"> <a class="lawspublishlink" href="http://www.szse.cn/application/laws/index.html" target="_blank ">法律声明</a>  &nbsp;<a href="http://beian.miit.gov.cn">粤ICP备05012689号</a>
+                    <br>©<span class="copyright-year"></span>深圳证券交易所 版权所有<br>本网站支持ipv6访问</div>
+        </div>
+    </div>
+</footer>
+<div class="elevator_fix">
+    <div class="elevator_totop">
+        <i></i>
+        <p class="describe">返回顶部</p>
+    </div>
+    <div class="elevator_feedback">
+        <i></i>
+        <p class="describe">意见反馈</p>
+    </div>
+    <div class="elevator_share">
+        <i></i>
+        <div id="weixin_qrcode" class="weixin_qrcode">
+
+            <s></s>
+            <span class="describe">微信扫一扫，分享好友</span>
+        </div>
+    </div>
+</div>
+<script>
+    addComJsFile();
+</script>
+    <script id="article-template" type="text/html">
+    <ul class="newslist date-right">
+                <% _.each(data,function(item){ %>           
+                  <li>         
+                    <div class="title">
+                      <%if(!(item.doctype== 'html' || item.doctype== 'pdf' || item.doctype== 'xml' || item.doctype== 'txt' || item.doctype== 'jpg' || item.doctype== 'png' || item.doctype== 'jpeg' || item.doctype== 'bmp')&& curCmsDocType != 30 && item.doctype !== 'link'){%>
+                                    <a class="ellipsis art-list-link" href="<%=item.docpuburl%>" title="<%=replaceTitle(item.doctitle)%>" target="_self">
+                      <%}else{%>
+                      <a class="ellipsis art-list-link" href="<%=item.docpuburl%>" title="<%=replaceTitle(item.doctitle)%>" target="_blank">
+                      <%}%>
+        <!-- <a class="ellipsis art-list-link" href="<%=item.docpuburl%>" title="<%=replaceTitle(item.doctitle)%>" target="_blank"> -->
+                          <%=item.doctitle%>
+                        </a>
+                        <span class="time"><%- formateDate(item.docpubtime) %></span>
+                    </div>
+                  </li>
+                <% }) %>                                      
+    </ul>
+        <% if (data.length<=0) {%> 
+              <div class="report-nodata">
+                    <span class="nodata-text"><%= enlangflag ? 'No data was found that fit the condition!' : '没有找到符合条件的数据！' %></span>
+              </div>
+        <% }%>   
+</script>
+<script>
+    changeVertion('/common/js/articleList.js','js');        
+</script>
+
+<script type="text/javascript">
+      
+    var cmsParam = {
+        pageCount:4,
+        pageIndex:0,
+        currentMenuId:'currentAffairs'
+    }
+    if(IEVersion() <= 10 && IEVersion() > 0){
+             window.onload = function(){
+                createPageHTML(4, 0, "index", "html");
+                $('#article-text').val('');
+                artInitHtml(cmsParam);
+             }
+           }else{
+             window.onpageshow = function(){
+                createPageHTML(4, 0, "index", "html");
+                $('#article-text').val('');
+                artInitHtml(cmsParam);
+             }
+           }
+       $('.current-page .num-cur').html( cmsParam.pageIndex + 1 );
+      $('.current-page .num-all').html( cmsParam.pageCount );
+</script>
+
+</body>
+</html>

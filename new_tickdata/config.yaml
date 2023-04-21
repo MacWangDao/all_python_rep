@@ -1,0 +1,51 @@
+instruments:
+#  - '300564'
+kafka_server:
+    bootstrap_servers:
+        - 192.168.101.212:9092
+        - 192.168.101.213:9092
+        - 192.168.101.214:9092
+    topics:
+#        - quote-all.sh.688390
+#        - quote-all.sz.300487
+#        - quote-all.sz.300487
+#        - quote-all.sh.688556
+#        - quote-all.sh.603185
+#        - quote-all.sh.688063
+#        - quote-all.sz.300776
+#        - quote-all.sz.002920
+#        - quote-all.sz.002222
+#        - quote-all.sh.688019
+#        - quote-all.sh.688099
+#        - quote-all.sh.688200
+#        - quote-all.sh.603606
+#        - quote-all.sz.003022
+#        - quote-all.sz.300081
+#        - quote-all.sh.688083
+#        - quote-all.sh.688188
+        - quote-all.sz.300014
+#        - quote-all.sz.300568
+      
+
+
+exchange:  # sz sh   sh&sz
+time_interval: 3 # s
+zmq_server:
+  url:    tcp://localhost:8047
+
+#date_time:  '2022-04-07 09:00:00' # 指定日期消费 默认为当天的 09:00:00开始
+date_time:  '2022-09-30 09:00:00'
+seek_to_beginning: False # 是否从头(offset=0)开始消费 False|True
+influxdb:
+  token:  pFGIYU6RQZ6bfObi0HD3B3KIF4xYq5IesSzvGVkSo675-6BPXk3phh0SUhVhi-_U93OBC1YhT_j-BQvwqNsDpQ==
+  org: bjhy
+  bucket: quote-v2
+  url:  http://192.168.101.201:8086
+oracle:
+  host: 192.168.101.215   # ip
+  user: dazh        # 用户名
+  port: 1521        # 端口
+  password: dazh
+  sid:
+  service_name: dazh
+

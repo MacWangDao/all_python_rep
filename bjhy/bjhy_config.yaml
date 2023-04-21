@@ -1,0 +1,25 @@
+ssh:
+  hostname: 192.168.101.211
+  port: 22
+  username: toptrade
+  password: toptrade
+  remote_path: /home/guest/003-数据/001-经纪商数据/001-HK
+
+oracle:
+  host: 192.168.101.215
+  user: fcdb
+  port: 1521
+  password: fcdb
+  sid:
+  service_name: dazh
+
+loginfo:
+  logpath: ./log/img_excel_sftp_hk_data_test.log
+  rotation: 100MB
+  encoding: utf-8
+  enqueue: True
+  format: "{time:YYYY-MM-DD HH:mm:ss} |  {name} | {line} | {message}"
+  retention: 10 days
+
+
+

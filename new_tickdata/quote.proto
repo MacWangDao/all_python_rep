@@ -1,0 +1,387 @@
+syntax="proto2";
+import public "typedef.proto";
+import public "msgcarrier.proto";
+package PB.Quote;
+
+/*
+publish quote with zeromq multi-parts message
+
+	part0 : "<PB::MsgType::SNAPSHOT | PB::MsgType::TRANSACTIONS |PB::MsgType::Order | PB::MsgType::OrderQueue | PB::MsgType::Index>.<PB::TYPEDEF::Exchange>.<stock code>"
+	part1 : serialized string of MessageCarrier
+			{
+				type=PB::MsgType::SNAPSHOT or PB::MsgType::TRANSACTIONS or ...;
+				message = serialized string of PB::Quote:: or PB::Quote::Transactions
+			}
+example:
+	zmqsocket->sub( "26.1.600036" ) // means subscribe PB::MsgType::SNAPSHOT(26) of 600036 in PB::TYPEDEF::Exchange::EX_SH(1)
+*/
+
+message SecurityCodes
+{
+	repeated SecurityCode codes = 1;
+}
+
+message OptionCode
+{
+	//for options
+	optional string szContractID = 6;// 期权合约代码
+    optional string szUnderlyingSecurityID = 7;//// 标的证券代码
+    optional int32 chCallOrPut = 8;               // 认购认沽C1        认购，则本字段为“C”；若为认沽，则本字段为“P”
+    optional int32  nExerciseDate = 9;             // 期权行权日，YYYYMMDD
+    
+    //扩充字段
+    optional int32 chUnderlyingType = 10;			// 标的证券类型C3    0-A股 1-ETF (EBS – ETF， ASH – A 股)
+	optional int32 chOptionType = 11;              // 欧式美式C1        若为欧式期权，则本字段为“E”；若为美式期权，则本字段为“A”
+	
+	optional int32 chPriceLimitType = 12;          // 涨跌幅限制类型C1 ‘N’表示有涨跌幅限制类型, ‘R’表示无涨跌幅限制类型
+	optional int32  nContractMultiplierUnit = 13;	// 合约单位,         经过除权除息调整后的合约单位, 一定是整数
+	optional int32  nExercisePrice = 14;            // 期权行权价,       经过除权除息调整后的期权行权价，右对齐，精确到厘
+	optional int32  nStartDate = 15;                // 期权首个交易日,YYYYMMDD
+	optional int32  nEndDate = 16;                  // 期权最后交易日/行权日，YYYYMMDD
+	optional int32  nExpireDate = 17;               // 期权到期日，YYYYMMDD	
+}
+
+message SecurityCode
+{
+    required PB.TYPEDEF.TypeDef.Exchange Exchange = 1 [default = EX_UNKNOWN];       //market code
+    required string code = 2;        //original code:ag1302
+    optional string ENName = 3;
+    optional string CNName = 4;      //chinese name: 沪银1302
+    optional int32 type = 5;	
+    optional OptionCode opcode = 6;   
+	optional int32 lasttime = 7; //取行情时用，只取变化的行情   
+};
+
+
+//NOTICE!! 
+//all data fields must be filled! 
+//leave empty means leave empty string or 0.
+message QueryQuote
+{
+	optional int64 reqid = 1;
+	optional string request = 2;	//request, snapshot or transaction or codetable,  use "snapshot;transaction;codetable;index;order;orderqueue" or leave it an empty string to query all.
+	optional string exchanges = 3; // sh;sz;cf leave an empty string to query all.
+	optional string codes = 4;	//codes , splited by ";", eg: 600000;600039;600521  //leave empty to query all.
+	optional int64 date = 5;	//YYYYMMDD    can be filled with 0, means today.
+	optional int64 starttime = 6; // HHMMSSmmm format. eg: 135030555
+	optional int64 endtime =7;	// Same as above.
+}
+
+message QueryQuoteRep
+{
+	required int64 reqid = 1;
+	required int64 errorno = 2;	//0 for good request.  otherwise this query is invalid. the detail will be described in errmsg.
+	optional string errormsg = 3;	// for clients to show up or to write into log entry.
+	optional int64 status = 4;	// in the last package this will be 0.
+	repeated SnapShot snapshots = 5; 
+	repeated Transaction transactions = 6; 
+	repeated SecurityCode codetables = 7;
+	repeated Index indexes = 8;
+	repeated Order orders = 9;
+	repeated OrderQueue orderqueues = 10;
+}
+
+
+/*
+   To query all snapshots
+	
+  Request format:
+  <Carrier>
+  
+  where 
+	Carrier.type = MSGCARRIER::QUERYSNAPSHOTALL
+	Carrier.message = empty string
+  or	
+	Carrier.type = MSGCARRIER::QUERYSNAPSHOTS
+	Carrier.message = <QuerySnapshots>
+  
+  Reply format:
+  <Carrier>
+  
+  where 
+	Carrier.type = MSGCARRIER::QUERYSNAPSHOTREP
+	Carrier.message = <QuerySnapshotsRep>
+*/
+
+
+message QuerySnapshots
+{
+	optional int64 reqid = 1;
+	repeated SecurityCode items = 2;
+}
+
+
+message QuerySnapshotsRep
+{
+	optional int64 reqid = 1;
+	optional SnapShots snapshots = 2;
+}
+
+
+message SnapShots
+{
+	repeated SnapShot items = 1;
+}
+
+/*
+SnapShot::status	状态
+	0		未设置
+	'Y'		新产品
+	'R'		交易间，禁止任何交易活动
+	'P'		休市，例如，午餐休市。无撮合市场内部信息披露。
+	'B'		停牌
+	'C'		收市
+	'D'		停牌
+	'Z'		产品待删除
+	'V'		结束交易
+	'T'		固定价格集合竞价
+	'W'		暂停，除了自有订单和交易的查询之外，任何交易活动都被禁止。
+	'X'		停牌,('X'和'W'的区别在于'X'时可以撤单)
+	'I'		盘中集合竞价。
+	'N'		盘中集合竞价订单溥平衡
+	'L'		盘中集合竞价PreOBB
+	'I'		开市集合竞价
+	'M'		开市集合况竞价OBB
+	'K'		开市集合竞价订单溥平衡(OBB)前期时段
+	'S'		非交易服务支持
+	'U'		盘后处理
+	'F'		盘前处理
+	'E'		启动
+	'O'		连续撮合	
+	'Q'		连续交易和集合竞价的波动性中断
+*/
+message SnapShot
+{
+	optional int32 date = 1;		//20140624 2014-6-24    58232
+	optional int32 time = 2;		// in ms
+	optional PB.TYPEDEF.TypeDef.Exchange exchange = 3  [default = EX_UNKNOWN];
+	optional string code = 4;
+	optional int32 status = 5;
+
+	optional double lastprice = 6;	//现价
+	optional double prevclose = 7;	//前日收盘价
+	optional double open = 8;	//开盘价
+	optional double high = 9;	//当日最高价
+	optional double low = 10;	//最低价
+	
+	optional int64 volume = 11;	//总交易量
+	optional double value = 12;	//总成交额
+
+	optional double highlimited = 13;	//涨停价
+	optional double lowlimited = 14;	//跌停价
+	
+
+	//期货
+	optional double settleprice = 15;	//结算价(期货)
+	optional double prevsettleprice = 16;	//前结算价(期货)
+	optional double delta = 17;	//虚实度
+	optional double prevdelta = 18;	//昨虚实度
+	optional double iopeninterest = 19;	//持仓量
+	optional double prevopeninterest = 20; //昨日持仓量
+
+    optional double niopv = 21;	// IOPV净值估值
+    optional double nyieldtomaturity = 22;	//到期收益率
+	optional int32 numtrades = 23;		//成交笔数
+	optional int64 totalBidVol = 24;	//卖盘数量
+	optional int64 totalAskVol = 25;	//买盘数量
+	repeated double bidprices = 26;		//买盘价格队列
+	repeated int64 bidvolumes = 27;		//买盘的手数队列
+	repeated double askprices = 28;		//卖盘的价格队列
+	repeated int64 askvolumes = 29;		//卖盘的手数队列
+	optional uint64 seqno  = 30;
+	optional PB.TYPEDEF.TypeDef.MarketDataType datatype = 31 [default = MD_UNKNOWN];
+	optional double vwap = 32;			//结算价计算时间区间内的总成交量
+	optional int64 agregatevol = 33;	//结算价计算时间区间内的总成交额
+	optional double ddrtiopv = 34;		//衍生数据中的 IOPV净值估值
+
+	//nWeightedAvgBidPrice,nWeightedAvgAskPrice,nSyl1,nSyl2
+	optional double nWeightedAvgBidPrice = 35;
+	optional double nWeightedAvgAskPrice = 36;
+	optional double nSyl1 = 37;
+	optional double nSyl2 = 38;
+
+	//deriveddata
+	optional int64 moneyflow = 39;
+	optional double alpha = 40;
+	optional double beta = 41;
+}
+
+message Index
+{
+	optional int32 date = 1;		//20140624 2014-6-24    58232
+	optional int32 time = 2;		//in ms
+	optional PB.TYPEDEF.TypeDef.Exchange exchange = 3;
+	optional string code = 4;
+
+    optional int64 OpenIndex = 5;		    //今开盘指数
+    optional int64 HighIndex = 6;		    //最高指数
+    optional int64 LowIndex = 7;	    //最低指数
+    optional int64 LastIndex = 8;	    //最新指数
+    optional int64 TotalVolume = 9;    //参与计算相应指数的交易数量
+    optional int64 Turnover = 10;    //参与计算相应指数的成交金额
+    optional int64 PreCloseIndex = 11; //前盘指数
+	optional uint64 seqno  = 14;
+}
+
+message LatencyIndicator
+{
+	optional PB.TYPEDEF.TypeDef.Exchange exchange = 1;
+	optional double latency = 2;		//lagging between the time snapshot/matching happens to the time that localmachine recieves market data.
+	optional double servertime = 3;	//when does this package has been prepared for routing to th next service node.(local tdf time)
+}
+message LatencyIndicators
+{
+	repeated LatencyIndicator items = 1;
+}
+
+
+
+message QuerySnapshotLitesHstReq
+{
+	optional int64 reqid = 1;
+    required PB.TYPEDEF.TypeDef.Exchange Exchange = 2 [default = EX_UNKNOWN];       //market code
+    required string code = 3;        //original code:ag1302
+	
+}
+
+
+message QuerySnapshotLitesHstRep
+{
+	optional int64 reqid = 1;	
+	required PB.TYPEDEF.TypeDef.Exchange Exchange = 2 [default = EX_UNKNOWN];       //market code
+    required string code = 3;        //original code:ag1302
+	repeated SnapShot items = 4;
+}
+
+
+
+message Transactions
+{
+	repeated Transaction items = 1;
+}
+
+message Transaction
+{
+	optional int32 date = 1;		//20140624 2014-6-24    58232
+	optional int32 time = 2;		//in ms
+	optional PB.TYPEDEF.TypeDef.Exchange exchange = 3;
+	optional string code = 4;
+
+    optional int32 nIndex = 5;		    //成交编号
+    optional double lastprice = 6;		    //成交价格
+    optional int64 volume = 7;	    //成交数量
+    optional double turnover = 8;	    //成交金额
+    optional int32 nBSFlag = 9;        //买卖方向(买：'B', 卖：'S', 不明：' ')
+    optional int32  chOrderKind = 10;    //成交类别
+    optional int32  chFunctionCode = 11; //成交代码
+    optional int32   nAskOrder = 12;	    //叫卖方委托序号
+    optional int32   nBidOrder = 13;	    //叫买方委托序号
+	optional uint64 seqno  = 14;
+}
+
+
+message Order
+{
+	optional int32 date = 1;		//20140624 2014-6-24    58232
+	optional int32 time = 2;		//in ms
+	optional PB.TYPEDEF.TypeDef.Exchange exchange = 3;
+	optional string code = 4;
+
+	optional int32 nOrder = 5;
+	optional double nPrice = 6;
+	optional int32 nVolume = 7;
+	optional int32 chOrderKind = 8;
+	optional int32 chFunctionCode = 9;
+	optional uint64 seqno  = 10;
+
+optional uint64 nOrderOriNo  = 11;
+optional  uint64 nBizIndex  = 12;
+}
+message OrderQueue
+{
+	optional int32 date = 1;		//20140624 2014-6-24    58232
+	optional int32 time = 2;		//in ms
+	optional PB.TYPEDEF.TypeDef.Exchange exchange = 3;
+	optional string code = 4;
+
+	optional int32 nSide = 5;
+	optional double nPrice = 6;
+	optional int32 nOrders = 7;
+	optional int32 nABItems = 8;
+	repeated int32 nABVolume = 9;
+	optional uint64 seqno  = 10;
+}
+
+/*
+   To query all snapshots
+	
+  Request format:
+  <Carrier>
+  
+  where 
+	Carrier.type = MSGCARRIER::QUERY_SNAPLITESALL
+	Carrier.message = <QuerySnapshotLites>
+  
+  Reply format:
+  <Carrier>
+  
+  where 
+	Carrier.type = MSGCARRIER::QUERY_SNAPLITESREP
+	Carrier.message = <QuerySnapshotLites>
+
+	Client should use MergeFrom to copy data from the received message
+	don't need to specify SecurityCodeLite in items;
+*/
+
+
+message QuerySnapshotLites
+{
+	optional int64 reqid = 1;
+	repeated SecurityCode items = 2;
+}
+
+
+message QuerySnapshotLitesRep
+{
+	optional int64 reqid = 1;
+	repeated SnapShot items = 2;
+}
+
+/*
+   To query snapshots for specified securities
+	
+  Request format:
+  <Carrier>
+  
+  where 
+	Carrier.type = MSGCARRIER::QUERY_SNAPLITES
+	Carrier.message = <QuerySnapshotLites>
+  
+  Reply format:
+  <Carrier>
+  
+  where 
+	Carrier.type = MSGCARRIER::QUERY_SNAPLITESREP
+	Carrier.message = <QuerySnapshotLitesRep>
+
+	Client should use MergeFrom to copy data from the received message
+	NEED to specify SecurityCodeLite in items;
+*/
+
+/* Pub snapshot lites
+
+  Pub format:
+	
+  <"<PB::TYPEDEF::Exchange>.<stock code>">
+  <Carrier>
+
+  where 
+  Carrier.type = MSGCARRIER::PUB_SNAPLITEUPDATE
+  Carrier.message = <Snapshot>
+*/
+
+message QuoteHeartbeat
+{
+	optional int64 seqid = 1;
+	optional int32 time = 2;
+}

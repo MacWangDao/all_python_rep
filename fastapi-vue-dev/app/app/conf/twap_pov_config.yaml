@@ -1,0 +1,86 @@
+envs:
+  product
+#product test dev
+
+dev:
+  kafka_server:
+    bootstrap_servers:
+      - 192.168.101.87:9092
+    topics:
+      command_topic: order-command-01
+      req_pipe: req_pipe.kafka
+      rsp_pipe: rsp_pipe.kafka
+  userinfo:
+    user: "1780012567"
+    account: "1780012567"
+    password: "601878"
+  redis:
+    host: 192.168.101.205
+    port: 6379
+test:
+  kafka_server:
+    bootstrap_servers:
+      - 192.168.101.206:9092
+    topics:
+      command_topic: order-command-01
+      req_pipe: req_pipe.kafka
+      rsp_pipe: rsp_pipe.kafka
+  userinfo:
+    user: "1780012567"
+    account: "1780012567"
+    password: "601878"
+  redis:
+    host: 192.168.101.205
+    port: 6379
+product:
+  kafka_server:
+    bootstrap_servers:
+      - 82.156.87.227:9092
+    #      - 192.168.101.57:9092
+    topics:
+      command_topic: order-command-01
+      req_pipe: req_pipe.kafka
+      rsp_pipe: rsp_pipe.kafka
+  userinfo:
+    user: "1800048631"
+    account: "2100014710"
+    password: "202238"
+  redis:
+    host: 192.168.101.205
+    port: 6379
+  zmq:
+    host: 82.156.87.227
+    port: 8046
+
+twap_limit_count: 2 # twap下单失败后限制重现下单次数,默认2
+pov_limit_count: 2 # pov下单失败后限制重现下单次数,默认2
+pov_limit_sub_count: 2 # pov子单下单失败后限制重现下单次数,默认2
+#防止失败后持续下单
+
+
+
+
+influxdb:
+  token: pFGIYU6RQZ6bfObi0HD3B3KIF4xYq5IesSzvGVkSo675-6BPXk3phh0SUhVhi-_U93OBC1YhT_j-BQvwqNsDpQ==
+  org: bjhy
+  bucket: quote-v2
+  url: http://192.168.101.201:8086
+oracle:
+  host: 192.168.101.215
+  user: dazh
+  port: 1521
+  password: dazh
+  sid:
+  service_name: dazh
+
+redis:
+  dev:
+    host: 192.168.101.205
+    port: 6379
+  test:
+    host: 192.168.101.205
+    port: 6379
+  product:
+    host: 192.168.101.205
+    port: 6379
+
