@@ -1,0 +1,13 @@
+from(bucket: "quote-v2")
+                    |> range(start: 2022-04-13T01:15:00Z, stop:2022-04-13T07:20:00Z)
+                    |> filter(fn: (r) =>
+                        (r["_measurement"] == "sp_ask_amt"))
+                    |> filter(fn: (r) =>
+                        (r["_field"] == "value"))
+                    |> filter(fn: (r) =>
+                        (r["instrument"] == "sz.300001"))
+                    |> window(every: 3s)
+                    |> mean()
+                    |> duplicate(column:"_stop",as:"_time")
+                    |> window(every:inf)
+                    |> drop(columns: ["result","_start", "_stop", "table", "_field","_measurement","instrument"])

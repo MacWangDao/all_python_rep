@@ -1,0 +1,12 @@
+influxdb:
+  token: pFGIYU6RQZ6bfObi0HD3B3KIF4xYq5IesSzvGVkSo675-6BPXk3phh0SUhVhi-_U93OBC1YhT_j-BQvwqNsDpQ==
+  org: bjhy
+  bucket: quote-v2
+  url: http://192.168.101.201:8086
+
+read_path: ./query
+read_name: query_1
+save_path: ./save
+save_name:
+
+
